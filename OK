@@ -1,0 +1,15 @@
+/museo_virtuale/
+│
+├── index.html
+├── primavera.html
+├── bacio.html
+├── nottestellata.html
+├── primavera-dettaglio.html
+├── bacio-dettaglio.html
+├── nottestellata-dettaglio.html
+├── stile.css
+│
+└── img/
+    ├── Botticelli-primavera.jpg
+    ├── Hayez-bacio.jpg
+    └── VanGogh-nottestellata.jpg
